@@ -7,8 +7,8 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **srimanpolusani1@gmail.com**
-- 👨‍💻 PERSONAL WEBSITE **https://srimanpolusani.github.io/personal_website/**
+- 📫 Get in touch: **srimanpolusani1@gmail.com**
+- 👨‍💻 Personal Website: **https://srimanpolusani.github.io/personal_website/**
 
 <br>
 <h3 align="left">Connect with me:</h3>
