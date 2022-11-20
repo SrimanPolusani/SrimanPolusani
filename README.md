@@ -73,10 +73,10 @@
     </a>
 </p>
 <br>
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact"
         alt="srimanpolusani" /></p>
-<br>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en"
         alt="srimanpolusani" /></p>
