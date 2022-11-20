@@ -72,11 +72,9 @@
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65" />
     </a>
 </p>
-<br>
-<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact"
         alt="srimanpolusani" /></p>
-<p>&nbsp;<img align="left"
+<p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en"
         alt="srimanpolusani" /></p>
