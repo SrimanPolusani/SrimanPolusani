@@ -1,8 +1,8 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <title>Document</title>
     <script src="https://kit.fontawesome.com/59a76b8dc1.js" crossorigin="anonymous"></script>
+    <title>Document</title>
 </head>
 <body>
 <h1 align="center">Hi 👋, I'm Polusani Sriman</h1>
