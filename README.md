@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **srimanpolusani1@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/srimanp" target="blank"><img align="center"
@@ -16,6 +17,7 @@
             alt="srimanp" height="55" width="65" /></a>
 </p>
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
