@@ -13,9 +13,9 @@
 <p align="left">
     <a href="https://linkedin.com/in/srimanp" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="srimanp" height="30" width="40" /></a>
+            alt="srimanp" height="55" width="65" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -69,7 +69,7 @@
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65" />
     </a>
 </p>
-
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact"
         alt="srimanpolusani" /></p>
