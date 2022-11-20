@@ -8,10 +8,10 @@
 - 💬 Ask me about **Python**
 
 - 📫 Gmail: **srimanpolusani1@gmail.com**
-- 👨‍💻 Personal Website: **https://srimanpolusani.github.io/personal_website/**
+- 👨‍💻 Personal website: **https://srimanpolusani.github.io/personal_website/**
 
 <br>
-<h3 align="left">Get in touch:</h3>
+<h3 align="left">Get in Touch:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/srimanp" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
