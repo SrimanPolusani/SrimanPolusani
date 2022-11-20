@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Polusani Sriman</h1>
 <h3 align="center">A Python Developer.</h3>
-<img align="middle" width="4000" alt="Coding" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d">
+<img align="middle" width="4000" alt="Coding" src="https://www.gyanvihar.org/with-sgvu-meet-businesses-requirement-of-full-stack-development">
 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 
