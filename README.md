@@ -8,6 +8,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **srimanpolusani1@gmail.com**
+- Personal Website **https://srimanpolusani.github.io/personal_website/**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -75,7 +76,7 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact"
         alt="srimanpolusani" /></p>
-
+<br>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en"
         alt="srimanpolusani" /></p>
