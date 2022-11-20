@@ -56,13 +56,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="65" height="65" />
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-            alt="pandas" width="65" height="65" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65" />
-    </a>
 </p>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact"
