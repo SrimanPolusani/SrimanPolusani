@@ -70,7 +70,6 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en"
         alt="srimanpolusani" /></p>
-<br>
 <h3 align="left">Get in Touch</h3>
 <p align="left">
     <a href="https://linkedin.com/in/srimanp" target="blank"><img align="center"
