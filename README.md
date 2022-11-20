@@ -1,6 +1,7 @@
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
 <h1 align="center">Hi 👋, I'm Polusani Sriman</h1>
 <h3 align="center">A Python Developer.</h3>
-
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about **Python**
