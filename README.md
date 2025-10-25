@@ -11,8 +11,10 @@
   
   <h2 align="left">Profile Summary</h2>
   <p align="justify">
-    Skilled machine learning engineer currently pursuing an M.S. in Data Science from Florida State University. Adept at developing machine learning models, such as supervised learning, unsupervised learning, and reinforcement learning. Proficient in using Python, TensorFlow, Scikit-learn, and Keras to develop advanced ML algorithms, like neural networks, decision trees, and ensemble methods. Highly skilled in data analytics and visualization, with expertise in modules like Pandas, NumPy, Matplotlib, and Plotly. Passionate about building machine learning models and understanding the mathematics behind it for data-driven decision-making.
+     I am a master’s student in Statistical Data Science at Florida State University. My expertise lies in the complete data lifecycle, from raw data to extracting insights. I am proficient in data preparation using SQL and Python (Pandas, NumPy). I translate complex findings into easy-to-understand and intuitive visualizations using Matplotlib, Seaborn, Plotly, Tableau, and Power BI.
   </p>
+  <p align="justify"> I am a master’s student in Statistical Data Science at Florida State University. My expertise lies in the complete data lifecycle, from raw data to extracting insights. I am proficient in data preparation using SQL and Python (Pandas, NumPy). I translate complex findings into easy-to-understand and intuitive visualizations using Matplotlib, Seaborn, Plotly, Tableau, and Power BI.</p>
+  <p align="justify">I excel at building, training, and tuning predictive models, and my projects demonstrate hands-on experience with Scikit-learn, TensorFlow, Keras, and PyTorch. I am a strong communicator and an experimental problem-solver, ready to apply my skills to uncover hidden insights and drive business value.</p>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=srimanpolusani&label=Profile%20views&color=0e75b6&style=flat" alt="srimanpolusani" />
