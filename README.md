@@ -13,7 +13,6 @@
   <p align="justify">
      I am a master’s student in Statistical Data Science at Florida State University. My expertise lies in the complete data lifecycle, from raw data to extracting insights. I am proficient in data preparation using SQL and Python (Pandas, NumPy). I translate complex findings into easy-to-understand and intuitive visualizations using Matplotlib, Seaborn, Plotly, Tableau, and Power BI.
   </p>
-  <p align="justify"> I am a master’s student in Statistical Data Science at Florida State University. My expertise lies in the complete data lifecycle, from raw data to extracting insights. I am proficient in data preparation using SQL and Python (Pandas, NumPy). I translate complex findings into easy-to-understand and intuitive visualizations using Matplotlib, Seaborn, Plotly, Tableau, and Power BI.</p>
   <p align="justify">I excel at building, training, and tuning predictive models, and my projects demonstrate hands-on experience with Scikit-learn, TensorFlow, Keras, and PyTorch. I am a strong communicator and an experimental problem-solver, ready to apply my skills to uncover hidden insights and drive business value.</p>
 
   <p align="left">
