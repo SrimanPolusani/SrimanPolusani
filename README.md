@@ -1,85 +1,129 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <!-- Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" />
+<h1 align="center">Hi 👋, I'm Sriman Polusani</h1>
+<h3 align="center">Machine Learning Engineer / Data Scientist</h3>
 
-  <h1 align="center">Hi 👋, I'm Sriman Polusani</h1>
+
+## WHO AM I ?
+I am a Machine Learning Engineer and Master’s student in Statistical Data Science at FSU. I specialize in deep learning architectures, recently leveraged **1,170 CPU hours** in High Performace Computing Cluster to preprocess **430 million records** and train a **GRU-Dense Neural Network** Architecture to predict acute gylcemic events 5 to 7 hours in advance in ICU patients. I bridge the gap between statistical theory and scalable engineering to build AI systems that perform in the real world.
+
+## CURRENT WORKS & CONTACT INFORMATION
+
+- 🌱 I’m currently learning **Large Language Models and RAG**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SrimanPolusani?tab=repositories](https://github.com/SrimanPolusani?tab=repositories)
+
+- 💬 Ask me about **Machine Learning**
+
+- 📫 How to reach me **sriman.polusani@outlook.com**
+
+## CERTIFICATIONS
+
+- Machine Learning Specialization (DeepLearning.AI)
+- Deployment of Machine Learning Models
+- Ultimate AWS Certified Solutions Architect Associate 2026
+- PL-300 certification prep: Microsoft Power BI Data Analyst
+- 100 days of Code: The Complete Python Pro Bootcamp
+- Using Python to Interact with the Operating System
+- Introduction to Git and GitHub
+- Crash Course on Python, Google IT Automation
   
-  <h2 align="left">Profile Summary</h2>
-  <p align="justify">
-     I am a master’s student in Statistical Data Science at Florida State University. My expertise lies in the complete data lifecycle, from raw data to extracting insights. I am proficient in data preparation using SQL and Python (Pandas, NumPy). I translate complex findings into easy-to-understand and intuitive visualizations using Matplotlib, Seaborn, Plotly, Tableau, and Power BI.
-  </p>
-  <p align="justify">I excel at building, training, and tuning predictive models, and my projects demonstrate hands-on experience with Scikit-learn, TensorFlow, Keras, and PyTorch. I am a strong communicator and an experimental problem-solver, ready to apply my skills to uncover hidden insights and drive business value.</p>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/srimanp/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/profile/sriman_polusani" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="50" width="50" />
+  </a>
+</p>
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=srimanpolusani&label=Profile%20views&color=0e75b6&style=flat" alt="srimanpolusani" />
-  </p>
+<br/>
 
-  <img align="middle" width="4000" alt="Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" />
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="55" height="55"/>
+  </a>
+</p>
 
-  <ul>
-    <li>👨‍💻 Personal Website: <a href="https://srimanpolusani.github.io/Personal_Website_2/">https://srimanpolusani.github.io/Personal_Website_2/</a></li>
-    <li>📫 Gmail: <strong>srimanpolusani1@gmail.com</strong></li>
-    <li>📄 Resume: <a href="https://drive.google.com/file/d/1xqZOgnUOSeZqTY6jzbsgKv-Zf2Q98tBp/view?usp=drive_link">https://drive.google.com/file/d/1xqZOgnUOSeZqTY6jzbsgKv-Zf2Q98tBp/view?usp=drive_link</a></li>
-  </ul>
+<p align="left">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+  </a>
+</p>
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <!-- Contacts icons doubled: original height="30", width="40" become height="60", width="80" -->
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/srimanp/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="80" />
-    </a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sriman_polusani" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="60" width="80" />
-    </a>
-  </p>
-
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <!-- Languages and Tools icons doubled: original width="40", height="40" become width="80", height="80" -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/>
-        </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/>
-    </a>
-   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="80" height="80"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80"/>
-    </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-    </a>
-  </p>
-
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact" alt="srimanpolusani" />
-  </p>
-
-  <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en" alt="srimanpolusani" />
-  </p>
-
-</body>
-</html>
+<br/>
