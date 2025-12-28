@@ -129,11 +129,3 @@ I am a Machine Learning Engineer and Master’s student in Statistical Data Scie
 <br/>
 
 <br/>
-
-## GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimanpolusani&show_icons=true&locale=en&layout=compact" alt="srimanpolusani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srimanpolusani&show_icons=true&locale=en" alt="srimanpolusani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srimanpolusani&" alt="srimanpolusani" /></p>
