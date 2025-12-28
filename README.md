@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriman Polusani</h1>
-<h3 align="center">Machine Learning Engineer / Data Scientist</h3>
+<h3 align="center">Data Scientist / Machine Learning Engineer </h3>
 
 
 ## WHO AM I ?
