@@ -126,6 +126,6 @@ I am a Machine Learning Engineer and Master’s student in Statistical Data Scie
   </a>
 </p>
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SrimanPolusani&layout=compact&theme=default)
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrimanPolusani&show_icons=true&theme=default)
