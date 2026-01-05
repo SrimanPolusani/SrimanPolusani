@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sriman Polusani</h1>
 <h3 align="center">Data Scientist / Machine Learning Engineer </h3>
 
+<div align="center">
+  <img src="https://github.com/SrimanPolusani/gru-dense-icu-glucose-prediction/blob/master/Images/chatGPT-profile-image.png?raw=true" alt="Doing ML Arch" width="100%" />
+</div>
 
 ## WHO AM I ?
 I am a Machine Learning Engineer and Master’s student in Statistical Data Science at FSU. I specialize in deep learning architectures, recently leveraged **1,170 CPU hours** in High Performace Computing Cluster to preprocess **430 million records** and train a **GRU-Dense Neural Network** Architecture to predict acute gylcemic events 5 to 7 hours in advance in ICU patients. I bridge the gap between statistical theory and scalable engineering to build AI systems that perform in the real world.
