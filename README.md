@@ -6,7 +6,7 @@
 </div>
 
 ## WHO AM I ?
-I am a Machine Learning Engineer and Master’s student in Statistical Data Science at FSU. I specialize in deep learning architectures, recently leveraged **1,170 CPU hours** in High Performace Computing Cluster to preprocess **430 million records** and train a **GRU-Dense Neural Network** Architecture to predict acute gylcemic events 5 to 7 hours in advance in ICU patients. I bridge the gap between statistical theory and scalable engineering to build AI systems that perform in the real world.
+I am a Machine Learning Engineer and Master’s grad in Statistical Data Science at FSU. I specialize in deep learning architectures, recently leveraged 1,170 CPU hours in High Performace Computing Cluster to preprocess 430 million records and train a GRU-Dense Neural Network Architecture to predict acute gylcemic events 5 to 7 hours in advance in ICU patients. I bridge the gap between statistical theory and scalable engineering to build AI systems that perform in the real world.
 
 ## CURRENT WORKS & CONTACT INFORMATION
 
