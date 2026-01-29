@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist / Machine Learning Engineer </h3>
 
 <div align="center">
-  <img src="github_cover_page_cropped_2.png" />
+  <img src="github_cover_page_cropped_2.1.png" />
 </div>
 
 ## WHO AM I ?
