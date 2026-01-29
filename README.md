@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist / Machine Learning Engineer </h3>
 
 <div align="center">
-  <img src="https://github.com/SrimanPolusani/gru-dense-icu-glucose-prediction/blob/master/Images/ChatGPT%20resized.png" alt="Doing ML Arch" width="100%" />
+  <img src="git_hub_cover_page_cropped.png" />
 </div>
 
 ## WHO AM I ?
